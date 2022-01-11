@@ -1,0 +1,37 @@
+.login{
+    display: flex;
+  justify-content: center;
+  text-align: center;
+  margin:30px 0 ;
+  padding: 20px;
+}
+.login-details{
+    width: 50%;
+    border-radius: 0px;
+background: #ffffff;
+box-shadow:  5px 5px 12px #cfcfcf,
+             -5px -5px 12px #ffffff;
+}
+.login img{
+    height: 400px;
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) and (min-width: 360px) {
+
+.login{
+    flex-direction: column;
+}
+.login-image{
+    width: 100%;
+
+
+}
+.login-details{
+    width: 100%;
+     margin-bottom: 20px;
+}
+
+
+
+}

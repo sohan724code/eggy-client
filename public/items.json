@@ -1,0 +1,38 @@
+[
+    {
+        "key": 1,
+        "name": "Dental Implant",
+        "img": "https://ddentalcenter.com/img/services/02a3365cf8467eaa2d128c41cacdf956.jpg",
+        "description": "Dental implant is a lifetime solution for replacing missing or badly damage tooth. Absence of teeth, form, function and aesthetic.In absence of teeth human face in bite and chewing. Result in malnutrition and incomplete diagnosis. By the help of dental implant, you can regain your natural tooth performance. Enjoying    your favorite Food like meat, nuts etc."
+    },
+    {
+        "key": 2,
+        "name": "Root Canal Treatment",
+        "img": "https://ddentalcenter.com/img/services/4cbb524ad20c8f6512d4ce172021b46e.jpg",
+        "description": "Root canal treatment (endodontics) is a dental procedure used to treat infection at the centre of a tooth. Root canal treatment is not painful and can save a tooth that might otherwise have to be removed completely."
+    },
+    {
+        "key": 3,
+        "name": "Orthodontics Treatment",
+        "img": "https://ddentalcenter.com/img/services/f6c0c4b4bf456aacec78612b785292c1.jpg",
+        "description": "Orthodontic treatment is a way of straightening or moving teeth, to improve the appearance of the teeth and how they work. It can also help to look after the long-term health of your teeth, gums and jaw joints, by spreading the biting pressure over all your teeth."
+    },
+    {
+        "key": 4,
+        "name": "Dental Crown & Bridge",
+        "img": "https://ddentalcenter.com/img/services/1735e26401d5131b95ac2d176db49243.jpg",
+        "description": "A dental crown can cap an individual's damaged or decaying tooth or be placed on top of a dental implant to replace a missing tooth. Dental implants are metal fixtures, surgically fastened to your jawbone below the gums. These metal implants become anchored to your bone through osseointegration (the bone fuses to the metal). "
+    },
+    {
+        "key": 5,
+        "name": "Gum Treatment",
+        "img": "https://ddentalcenter.com/img/services/c0d91fc7749752d5836b8949d7e19ae2.jpg",
+        "description": "In some cases of gum disease, root planing (debridement) may be required. This is a deep clean under the gums that gets rid of bacteria from the roots of your teeth. Before having the treatment, you may need to have a local anaesthetic (painkilling medication) to numb the area."
+    },
+    {
+        "key": 6,
+        "name": "Children Dentistry",
+        "img": "https://ddentalcenter.com/img/services/e4134e8affeadcf9bdbc3a016623cda4.jpg",
+        "description": "Children’s Dentistry is a fun and welcoming dental office with friendly staff that helps our patients feel comfortable during their dental visit. Parents can rest assured that their child is in great hands! Our office has been designed to create an experience your child will remember in a positive way while promoting healthy dental habits."
+    }
+]

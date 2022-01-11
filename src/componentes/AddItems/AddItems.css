@@ -1,0 +1,46 @@
+.add-details{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;  
+  
+   
+}
+
+.add-selects{
+    width: 50%;
+    border-radius: 10px;
+background: #ffffff;
+box-shadow:  19px 19px 49px #9e9e9e,
+             -19px -19px 49px #ffffff;
+
+   padding: 40px 20px;         
+}
+
+.input-field1{
+    width: 100%;
+    padding-left: 10px;
+
+}
+
+.input-field2{
+    height: 40px;
+}
+
+.input-btn{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 5px 0;
+    border-radius: 5px;
+  
+}
+
+
+@media screen and (max-width: 600px) and (min-width: 360px) {
+
+.add-selects{
+    width: 90%;
+}
+
+
+}

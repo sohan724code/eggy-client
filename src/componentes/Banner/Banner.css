@@ -1,0 +1,82 @@
+.main{
+   overflow-x: hidden;
+}
+.banner{
+   background-image: url("https://img.freepik.com/free-photo/concept-indian-cuisine-baked-chicken-wings-legs-honey-mustard-sauce-serving-dishes-restaurant-black-plate-indian-spices-wooden-table-background-image_127425-18.jpg?size=626&ext=jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   /* background-attachment: fixed; */
+   height: 80vh;
+   width: 100%;
+   position: relative;
+}
+
+.banner-card {
+   position: absolute;
+   top: 20%;
+   left: 10%;
+   display: inline-block;
+   background-color: white;
+   padding-top: 3%;
+   padding-bottom: 4%;
+   padding-right: 8%;
+   padding-left: 2%;
+   border-radius: 20px;
+   text-align: left;
+}
+.banner-card h1{
+   font-size: 4em;
+}
+
+
+.banner-card a{
+   display: block;
+   padding: 2% 3%;
+   text-decoration: none;
+   color: white;
+   font-weight: bold;
+   margin-top: 4em;
+   border-radius: 20px;
+   font-size: 1.5em;
+   text-transform: uppercase;
+   transition:  all 2.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.banner-card a:hover{
+   transform: translateX(100px);
+}
+@media screen and (max-width: 600px) and (min-width: 360px) {
+
+.banner {
+ 
+   display: flex;
+   justify-content: center;
+}
+.banner-card {
+   width: 100%;
+   padding-left: 7%;
+   left: 0;
+   right: 0;
+   top:10%;
+
+}
+.banner-card h1{
+   font-size: 2em;
+}
+.banner-card a{
+   display: block;
+   padding: 2% 3%;
+   text-decoration: none;
+   color: white;
+   font-weight: bold;
+   margin-top: 4em;
+   border-radius: 20px;
+   font-size: 1.5em;
+   text-align: center;
+   text-transform: uppercase;
+   transition:  all 2.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.banner-card a:hover{
+   transform: translateX(90px);
+}
+
+}

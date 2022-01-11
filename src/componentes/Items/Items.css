@@ -1,0 +1,11 @@
+
+@media screen and (max-width: 600px) and (min-width: 360px) {
+
+.custom-row{
+    margin:20px 0 !important;
+    width: 100%;
+    overflow-x: hidden;
+    grid-gap: 0;
+}
+
+}

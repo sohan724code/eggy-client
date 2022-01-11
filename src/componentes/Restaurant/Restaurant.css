@@ -1,0 +1,25 @@
+.col-design1{
+    display: flex;
+    width: 100%;
+
+}
+.col-design1 .card-design1 .image-size{
+    height: 300px;
+}
+.col-design1 .card-design1 {
+    height: 510px;
+
+}
+.col-design1 .card-design1 button{
+   border-color: rgb(231, 178, 43);
+   border-radius: 5px;
+   padding: 5px; 
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+@media screen and (max-width: 600px) and (min-width: 360px) {
+
+
+
+}
